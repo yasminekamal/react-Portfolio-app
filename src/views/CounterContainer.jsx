@@ -1,5 +1,5 @@
-import Counter from './Counter';
-import CounterActions from './CounterActions';
+import Counter from '../components/counter/Counter';
+import CounterActions from '../components/counter/CounterActions';
 import {useState} from 'react';
 
 const CounterContainer=()=>{
