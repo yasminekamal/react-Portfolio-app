@@ -11,7 +11,7 @@ const CounterContainer=()=>{
        setCounter(counter-1)
      }
     return(
-     <div style={{backgroundColor:"cyan" , width:"50%",padding:"20px" , margin:"50px auto"}}>
+     <div style={{backgroundColor:"cyan" , width:"50%",padding:"20px" , margin:"80px auto"}}>
        <Counter counter={counter}/>
        <CounterActions increment={increment} decrement={decrement}/>
      </div>

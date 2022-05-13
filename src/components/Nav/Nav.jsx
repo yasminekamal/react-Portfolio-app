@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { Container, Nav, Navbar } from "react-bootstrap";
 const NavBar = () => {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg">
+    <Navbar bg="secondary" variant="dark" expand="lg">
     <Container>
       <Navbar.Brand as={Link} to="/">
         <h4>React-Portfolio</h4>
@@ -18,6 +18,12 @@ const NavBar = () => {
           </Nav.Link>
           <Nav.Link as={Link} to="/products">
             E-commerce
+          </Nav.Link>
+          <Nav.Link as={Link} to="/todo">
+          ToDo
+          </Nav.Link>
+          <Nav.Link as={Link} to="/signup">
+          Sign Up
           </Nav.Link>
         </Nav>
       </Navbar.Collapse>
