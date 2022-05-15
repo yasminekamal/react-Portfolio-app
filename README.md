@@ -8,12 +8,12 @@ You may also see any lint errors in the console.
 
 Features:
 
--1-About page descripe what iam
--2-simple counter
--3-list products
--4-view product
--5-todo page
--6-signup page
+1. About page descripe what iam
+2. simple counter
+3. list products
+4. view product
+5. todo page
+6. signup page
 
 
 pictures from the app:
