@@ -17,10 +17,28 @@ Features:
 
 
 pictures from the app:
+
+1. About page descripe what iam
+
 ![home page](https://github.com/yasminekamal/react-Portfolio-app/blob/main/images/homepage.PNG)
+
+2. simple counter
+
 ![counter page](https://github.com/yasminekamal/react-Portfolio-app/blob/main/images/counterpage.PNG)
+
+3. list productsc
+
 ![products page](https://github.com/yasminekamal/react-Portfolio-app/blob/main/images/e-commerce.PNG)
+
+4. view product
+
 ![product page](https://github.com/yasminekamal/react-Portfolio-app/blob/main/images/productdetails.PNG)
+
+5. todo page
+
 ![todo page](https://github.com/yasminekamal/react-Portfolio-app/blob/main/images/todo.PNG)
+
+6. signup page
+
 ![signup page](https://github.com/yasminekamal/react-Portfolio-app/blob/main/images/signup.PNG)
 
